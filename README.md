@@ -6,7 +6,7 @@ This is a small project testing out the Tkinter package to create a GUI. What I 
 2. Prime spiral, with settings to ignore certain numbers
 3. Fetch all prime numbers (up to X) that end with the desired suffix.
 
-For faster calculations, the prime numbers are fetched from a list of prime numbers up to 10 million (instead of being calculated every time). This list is generated and a code for generating such a list is included in the "scribble" python notebook.
+For faster calculations, the prime numbers are fetched from a list of prime numbers up to 10 million (instead of being calculated every time). This list is generated and a code for generating such a list is included in the "scribble.ipynb" python notebook.
 
 ## 1. Visualizing prime number factors of all numbers up to X.
 
